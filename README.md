@@ -1,1 +1,1 @@
-# basic site
+# basic website
