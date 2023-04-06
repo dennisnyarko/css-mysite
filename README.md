@@ -1,1 +1,1 @@
-# bsic site
+# basic site
